@@ -1,6 +1,6 @@
 {
     "name": "armrck/yii2-tiles",
-    "description": "A Yii2 widget for dashboard tiles.",
+    "description": "A Yii2 widget for the dashboard tiles.",
     "type": "yii2-widget",
     "keywords": ["yii2", "extension", "widget", "bootstrap", "tiles", "dashboard"],
     "license": "BSD 3-Clause",
