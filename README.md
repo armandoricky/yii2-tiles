@@ -1,4 +1,4 @@
-Yii2-TouchSpin
+Yii2-Tiles
 ==============
 
 ![example](https://w3bsistemas.com/shared/yii2-tiles/armrck-tiles-demo.gif)
