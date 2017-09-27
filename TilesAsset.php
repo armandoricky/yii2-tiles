@@ -27,6 +27,7 @@ class TilesAsset extends \yii\web\AssetBundle {
 
     public function init() {
         $this->css = [YII_DEBUG ? 'css/armrck-tiles.css' : 'css/armrck-tiles.min.css'];
+        $this->js = [YII_DEBUG ? 'js/armrck-tiles.js' : 'js/armrck-tiles.min.js'];
     }
 
 }
