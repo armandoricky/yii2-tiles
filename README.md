@@ -38,7 +38,7 @@ Tiles::widget([
     'title' => 670, // main stats info
     'title_small' => 'MB', // complement for stats info
     'moreInfo' => 'This info only appear if the icon "info" is clicked'
-    'textFooter' => '<i class="fa fa-line-chart"></i> <a href="#add">Show more details</a>'
+    'textFooter' => '<i class="fa fa-line-chart"></i> <a href="#">Show more details</a>'
 ]);
 ?>
 ```
